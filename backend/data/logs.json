@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1065,
+    "event_type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788844212613",
+    "created_at": "2026-09-08 10:40:12",
+    "patient_id": 10
+  },
+  {
+    "id": 1064,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-08 10:40:10",
+    "patient_id": 10
+  },
+  {
+    "id": 1063,
+    "event_type": "alert",
+    "message": "No vitals are arriving from the sensor. Check the band and its power.\nCurrent location: https://www.google.com/maps?q=12.888708,77.571208\nAccuracy: 112 meters",
+    "created_at": "2026-09-08 10:39:50",
+    "patient_id": 10
+  },
+  {
+    "id": 1062,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23630 m (allowed 1180 m). The phone last reported 27 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888708,77.571208\nAccuracy: 112 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788844178381",
+    "created_at": "2026-09-08 10:39:38",
+    "patient_id": 10
+  },
+  {
+    "id": 1061,
+    "event_type": "info",
+    "message": "Companion Care Bot backend started without SQLite.",
+    "created_at": "2026-09-08 10:39:08",
+    "patient_id": null
+  },
+  {
+    "id": 1060,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888708,77.571208\nAccuracy: 112 meters",
+    "created_at": "2026-09-08 10:12:19",
+    "patient_id": 10
+  },
+  {
+    "id": 1059,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888738,77.571200\nAccuracy: 116 meters",
+    "created_at": "2026-09-08 10:12:07",
+    "patient_id": 10
+  },
+  {
+    "id": 1058,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888738,77.571200\nAccuracy: 116 meters",
+    "created_at": "2026-09-08 10:12:05",
+    "patient_id": 10
+  },
+  {
+    "id": 1057,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888738,77.571200\nAccuracy: 116 meters",
+    "created_at": "2026-09-08 10:12:03",
+    "patient_id": 10
+  },
+  {
+    "id": 1056,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888738,77.571200\nAccuracy: 116 meters",
+    "created_at": "2026-09-08 10:12:01",
+    "patient_id": 10
+  },
+  {
+    "id": 1055,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888683,77.571242\nAccuracy: 126 meters",
+    "created_at": "2026-09-08 10:11:59",
+    "patient_id": 10
+  },
+  {
+    "id": 1054,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888683,77.571242\nAccuracy: 126 meters",
+    "created_at": "2026-09-08 10:11:57",
+    "patient_id": 10
+  },
+  {
+    "id": 1053,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888683,77.571242\nAccuracy: 126 meters",
+    "created_at": "2026-09-08 10:11:55",
+    "patient_id": 10
+  },
+  {
+    "id": 1052,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888683,77.571242\nAccuracy: 126 meters",
+    "created_at": "2026-09-08 10:11:53",
+    "patient_id": 10
+  },
+  {
+    "id": 1051,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888683,77.571242\nAccuracy: 126 meters",
+    "created_at": "2026-09-08 10:11:51",
+    "patient_id": 10
+  },
+  {
+    "id": 1050,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888683,77.571242\nAccuracy: 126 meters",
+    "created_at": "2026-09-08 10:11:49",
+    "patient_id": 10
+  },
+  {
+    "id": 1049,
+    "event_type": "alert",
+    "message": "No vitals are arriving from the sensor. Check the band and its power.\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:11:20",
+    "patient_id": 10
+  },
+  {
+    "id": 1048,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23619 m (allowed 1180 m).\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788842434034",
+    "created_at": "2026-09-08 10:10:34",
+    "patient_id": 10
+  },
+  {
+    "id": 1047,
+    "event_type": "info",
+    "message": "Companion Care Bot backend started without SQLite.",
+    "created_at": "2026-09-08 10:10:03",
+    "patient_id": null
+  },
+  {
+    "id": 1046,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:44",
+    "patient_id": 10
+  },
+  {
+    "id": 1045,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:42",
+    "patient_id": 10
+  },
+  {
+    "id": 1044,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:40",
+    "patient_id": 10
+  },
+  {
+    "id": 1043,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:38",
+    "patient_id": 10
+  },
+  {
+    "id": 1042,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:33",
+    "patient_id": 10
+  },
+  {
+    "id": 1041,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:31",
+    "patient_id": 10
+  },
+  {
+    "id": 1040,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:28",
+    "patient_id": 10
+  },
+  {
+    "id": 1039,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:26",
+    "patient_id": 10
+  },
+  {
+    "id": 1038,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:24",
+    "patient_id": 10
+  },
+  {
+    "id": 1037,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:22",
+    "patient_id": 10
+  },
+  {
+    "id": 1036,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:20",
+    "patient_id": 10
+  },
+  {
+    "id": 1035,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:18",
+    "patient_id": 10
+  },
+  {
+    "id": 1034,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:15",
+    "patient_id": 10
+  },
+  {
+    "id": 1033,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:09",
+    "patient_id": 10
+  },
+  {
+    "id": 1032,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:09:04",
+    "patient_id": 10
+  },
+  {
+    "id": 1031,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:08:55",
+    "patient_id": 10
+  },
+  {
+    "id": 1030,
+    "event_type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "created_at": "2026-09-08 10:08:52",
+    "patient_id": 10
+  },
+  {
+    "id": 1029,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23619 m (allowed 1180 m).\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788842298861",
+    "created_at": "2026-09-08 10:08:18",
+    "patient_id": 10
+  },
+  {
+    "id": 1028,
+    "event_type": "alert",
+    "message": "No vitals are arriving from the sensor. Check the band and its power.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters",
+    "created_at": "2026-09-08 10:05:47",
+    "patient_id": 10
+  },
+  {
+    "id": 1027,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23612 m (allowed 1180 m). The phone last reported 801 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788841995967",
+    "created_at": "2026-09-08 10:03:15",
+    "patient_id": 10
+  },
+  {
+    "id": 1026,
+    "event_type": "info",
+    "message": "Companion Care Bot backend started without SQLite.",
+    "created_at": "2026-09-08 10:02:45",
+    "patient_id": null
+  },
+  {
+    "id": 1025,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 21:01:25",
+    "patient_id": 1
+  },
+  {
+    "id": 1024,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 21:00:09",
+    "patient_id": 1
+  },
+  {
+    "id": 1023,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 20:59:15",
+    "patient_id": 1
+  },
+  {
+    "id": 1022,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23612 m (allowed 1180 m). The phone last reported 16 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788794914158",
+    "created_at": "2026-09-07 20:58:34",
+    "patient_id": 10
+  },
+  {
+    "id": 1021,
+    "event_type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888618,77.571374\nAccuracy: 111 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788794900090",
+    "created_at": "2026-09-07 20:58:19",
+    "patient_id": 1
+  },
+  {
+    "id": 1020,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 20:58:13",
+    "patient_id": 1
+  },
+  {
+    "id": 1019,
+    "event_type": "command",
+    "message": "Play calming music",
+    "created_at": "2026-09-07 20:57:57",
+    "patient_id": 1
+  },
+  {
+    "id": 1018,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 20:57:13",
+    "patient_id": 1
+  },
+  {
+    "id": 1017,
+    "event_type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788794689667",
+    "created_at": "2026-09-07 20:54:49",
+    "patient_id": 1
+  },
+  {
+    "id": 1016,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 20:54:46",
+    "patient_id": 1
+  },
+  {
+    "id": 1015,
+    "event_type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788794656432",
+    "created_at": "2026-09-07 20:54:16",
+    "patient_id": 1
+  },
+  {
+    "id": 1014,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23612 m (allowed 1180 m). The phone last reported 11 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788794613778",
+    "created_at": "2026-09-07 20:53:33",
+    "patient_id": 10
+  },
+  {
+    "id": 1013,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 20:52:59",
+    "patient_id": 10
+  },
+  {
+    "id": 1012,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 20:52:05",
+    "patient_id": 1
+  },
+  {
+    "id": 1011,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 20:51:22",
+    "patient_id": 1
+  },
+  {
+    "id": 1010,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23612 m (allowed 1180 m). The phone last reported 6 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788794311960",
+    "created_at": "2026-09-07 20:48:31",
+    "patient_id": 10
+  },
+  {
+    "id": 1009,
+    "event_type": "alert",
+    "message": "No movement from the motion sensor for 15 minutes.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters",
+    "created_at": "2026-09-07 20:48:27",
+    "patient_id": 1
+  },
+  {
+    "id": 1008,
+    "event_type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788794184096",
+    "created_at": "2026-09-07 20:46:24",
+    "patient_id": 1
+  },
+  {
+    "id": 1007,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23612 m (allowed 1180 m).\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788794009274",
+    "created_at": "2026-09-07 20:43:29",
+    "patient_id": 10
+  },
+  {
+    "id": 1006,
+    "event_type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788793980086",
+    "created_at": "2026-09-07 20:43:00",
+    "patient_id": 10
+  },
+  {
+    "id": 1005,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 20:42:52",
+    "patient_id": 10
+  },
+  {
+    "id": 1004,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23611 m (allowed 1180 m).\nCurrent location: https://www.google.com/maps?q=12.888905,77.571242\nAccuracy: 132 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788793707248",
+    "created_at": "2026-09-07 20:38:27",
+    "patient_id": 10
+  },
+  {
+    "id": 1003,
+    "event_type": "alert",
+    "message": "No vitals are arriving from the sensor. Check the band and its power.\nCurrent location: https://www.google.com/maps?q=12.888807,77.571202\nAccuracy: 151 meters",
+    "created_at": "2026-09-07 20:33:25",
+    "patient_id": 1
+  },
+  {
+    "id": 1002,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23620 m (allowed 1180 m). The phone last reported 9 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888807,77.571202\nAccuracy: 151 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788793403335",
+    "created_at": "2026-09-07 20:33:23",
+    "patient_id": 10
+  },
+  {
+    "id": 1001,
+    "event_type": "info",
+    "message": "Companion Care Bot backend started without SQLite.",
+    "created_at": "2026-09-07 20:32:50",
+    "patient_id": null
+  },
+  {
+    "id": 1000,
+    "event_type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888807,77.571202\nAccuracy: 151 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788793154713",
+    "created_at": "2026-09-07 20:29:14",
+    "patient_id": 1
+  },
+  {
+    "id": 999,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23620 m (allowed 1180 m). The phone last reported 5 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888807,77.571202\nAccuracy: 151 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788793132394",
+    "created_at": "2026-09-07 20:28:52",
+    "patient_id": 10
+  },
+  {
+    "id": 998,
+    "event_type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788793118132",
+    "created_at": "2026-09-07 20:28:38",
+    "patient_id": 1
+  },
+  {
+    "id": 997,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 20:27:40",
+    "patient_id": 1
+  },
+  {
+    "id": 996,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 20:26:44",
+    "patient_id": 10
+  },
+  {
+    "id": 995,
+    "event_type": "command",
+    "message": "Play calming music",
+    "created_at": "2026-09-07 20:26:40",
+    "patient_id": 10
+  },
+  {
+    "id": 994,
+    "event_type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788792996067",
+    "created_at": "2026-09-07 20:26:36",
+    "patient_id": 10
+  },
+  {
+    "id": 993,
+    "event_type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788792970862",
+    "created_at": "2026-09-07 20:26:10",
+    "patient_id": 1
+  },
+  {
+    "id": 992,
+    "event_type": "emergency",
+    "message": "darshan left the safe zone \"Home\" and is 23620 m away (allowed 1180 m).\nCurrent location: https://www.google.com/maps?q=12.888807,77.571202\nAccuracy: 151 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788792823687",
+    "created_at": "2026-09-07 20:23:43",
+    "patient_id": 10
+  },
+  {
+    "id": 991,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23624 m (allowed 1180 m). The phone last reported 26 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788792508688",
+    "created_at": "2026-09-07 20:18:28",
+    "patient_id": 10
+  },
+  {
+    "id": 990,
+    "event_type": "command",
+    "message": "ashif set the safe zone \"Home\" to 1180 m.",
+    "created_at": "2026-09-07 20:18:23",
+    "patient_id": 10
+  },
+  {
+    "id": 989,
+    "event_type": "alert",
+    "message": "No vitals are arriving from the sensor. Check the band and its power.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters",
+    "created_at": "2026-09-07 20:17:53",
+    "patient_id": 10
+  },
+  {
+    "id": 988,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23624 m (allowed 1180 m). The phone last reported 24 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788792408190",
+    "created_at": "2026-09-07 20:16:48",
+    "patient_id": 10
+  },
+  {
+    "id": 987,
+    "event_type": "info",
+    "message": "Companion Care Bot backend started without SQLite.",
+    "created_at": "2026-09-07 20:16:17",
+    "patient_id": null
+  },
+  {
+    "id": 986,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23624 m (allowed 1180 m). The phone last reported 20 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788792161678",
+    "created_at": "2026-09-07 20:12:41",
+    "patient_id": 10
+  },
+  {
+    "id": 985,
+    "event_type": "info",
+    "message": "Companion Care Bot backend started without SQLite.",
+    "created_at": "2026-09-07 20:12:08",
+    "patient_id": null
+  },
+  {
+    "id": 984,
+    "event_type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791945031",
+    "created_at": "2026-09-07 20:09:05",
+    "patient_id": 10
+  },
+  {
+    "id": 983,
+    "event_type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791943359",
+    "created_at": "2026-09-07 20:09:03",
+    "patient_id": 10
+  },
+  {
+    "id": 982,
+    "event_type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791884421",
+    "created_at": "2026-09-07 20:08:04",
+    "patient_id": 10
+  },
+  {
+    "id": 981,
+    "event_type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791882202",
+    "created_at": "2026-09-07 20:08:02",
+    "patient_id": 10
+  },
+  {
+    "id": 980,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23624 m (allowed 1180 m). The phone last reported 14 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791817160",
+    "created_at": "2026-09-07 20:06:57",
+    "patient_id": 10
+  },
+  {
+    "id": 979,
+    "event_type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791770285",
+    "created_at": "2026-09-07 20:06:10",
+    "patient_id": 10
+  },
+  {
+    "id": 978,
+    "event_type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791769152",
+    "created_at": "2026-09-07 20:06:09",
+    "patient_id": 10
+  },
+  {
+    "id": 977,
+    "event_type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791677685",
+    "created_at": "2026-09-07 20:04:37",
+    "patient_id": 10
+  },
+  {
+    "id": 976,
+    "event_type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791672965",
+    "created_at": "2026-09-07 20:04:32",
+    "patient_id": 10
+  },
+  {
+    "id": 975,
+    "event_type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791614408",
+    "created_at": "2026-09-07 20:03:34",
+    "patient_id": 10
+  },
+  {
+    "id": 974,
+    "event_type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791612831",
+    "created_at": "2026-09-07 20:03:32",
+    "patient_id": 10
+  },
+  {
+    "id": 973,
+    "event_type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791552607",
+    "created_at": "2026-09-07 20:02:32",
+    "patient_id": 10
+  },
+  {
+    "id": 972,
+    "event_type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791551238",
+    "created_at": "2026-09-07 20:02:31",
+    "patient_id": 10
+  },
+  {
+    "id": 971,
+    "event_type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23624 m (allowed 1180 m). The phone last reported 9 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791515425",
+    "created_at": "2026-09-07 20:01:55",
+    "patient_id": 10
+  },
+  {
+    "id": 970,
+    "event_type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791491084",
+    "created_at": "2026-09-07 20:01:31",
+    "patient_id": 10
+  },
+  {
+    "id": 969,
+    "event_type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791489509",
+    "created_at": "2026-09-07 20:01:29",
+    "patient_id": 10
+  },
+  {
+    "id": 968,
+    "event_type": "info",
+    "message": "Companion Care Bot backend started without SQLite.",
+    "created_at": "2026-09-07 20:01:25",
+    "patient_id": null
+  },
+  {
+    "id": 967,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 20:00:53",
+    "patient_id": 10
+  },
+  {
+    "id": 966,
+    "event_type": "recognition",
+    "message": "This is your L, M.",
+    "created_at": "2026-09-07 19:59:50",
+    "patient_id": 10
+  }
+]

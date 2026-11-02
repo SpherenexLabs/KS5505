@@ -1,0 +1,1462 @@
+[
+  {
+    "id": 146,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788844212613",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:40:12"
+  },
+  {
+    "id": 145,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "No vitals are arriving from the sensor. Check the band and its power.\nCurrent location: https://www.google.com/maps?q=12.888708,77.571208\nAccuracy: 112 meters",
+    "severity": "warning",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:39:50"
+  },
+  {
+    "id": 144,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23630 m (allowed 1180 m). The phone last reported 27 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888708,77.571208\nAccuracy: 112 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788844178381",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:39:39"
+  },
+  {
+    "id": 143,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888708,77.571208\nAccuracy: 112 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:12:19"
+  },
+  {
+    "id": 142,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888738,77.571200\nAccuracy: 116 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:12:07"
+  },
+  {
+    "id": 141,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888738,77.571200\nAccuracy: 116 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:12:05"
+  },
+  {
+    "id": 140,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888738,77.571200\nAccuracy: 116 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:12:03"
+  },
+  {
+    "id": 139,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888738,77.571200\nAccuracy: 116 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:12:01"
+  },
+  {
+    "id": 138,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888683,77.571242\nAccuracy: 126 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:11:59"
+  },
+  {
+    "id": 137,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888683,77.571242\nAccuracy: 126 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:11:57"
+  },
+  {
+    "id": 136,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888683,77.571242\nAccuracy: 126 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:11:55"
+  },
+  {
+    "id": 135,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888683,77.571242\nAccuracy: 126 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:11:53"
+  },
+  {
+    "id": 134,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888683,77.571242\nAccuracy: 126 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:11:51"
+  },
+  {
+    "id": 133,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888683,77.571242\nAccuracy: 126 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:11:49"
+  },
+  {
+    "id": 132,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "No vitals are arriving from the sensor. Check the band and its power.\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:11:20"
+  },
+  {
+    "id": 131,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23619 m (allowed 1180 m).\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788842434034",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:10:34"
+  },
+  {
+    "id": 130,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:44"
+  },
+  {
+    "id": 129,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:42"
+  },
+  {
+    "id": 128,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:40"
+  },
+  {
+    "id": 127,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:38"
+  },
+  {
+    "id": 126,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:33"
+  },
+  {
+    "id": 125,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:31"
+  },
+  {
+    "id": 124,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:28"
+  },
+  {
+    "id": 123,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:26"
+  },
+  {
+    "id": 122,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:24"
+  },
+  {
+    "id": 121,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:22"
+  },
+  {
+    "id": 120,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:20"
+  },
+  {
+    "id": 119,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:18"
+  },
+  {
+    "id": 118,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:15"
+  },
+  {
+    "id": 117,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:10"
+  },
+  {
+    "id": 116,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:09:04"
+  },
+  {
+    "id": 115,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:08:55"
+  },
+  {
+    "id": 114,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "Detection pass failed: module 'google.protobuf.message_factory' has no attribute 'GetMessageClass'\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters",
+    "severity": "warning",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:08:53"
+  },
+  {
+    "id": 113,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23619 m (allowed 1180 m).\nCurrent location: https://www.google.com/maps?q=12.888814,77.571202\nAccuracy: 111 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788842298861",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:08:19"
+  },
+  {
+    "id": 112,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "No vitals are arriving from the sensor. Check the band and its power.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters",
+    "severity": "warning",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:05:48"
+  },
+  {
+    "id": 111,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23612 m (allowed 1180 m). The phone last reported 801 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788841995967",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-08T10:03:16"
+  },
+  {
+    "id": 110,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23612 m (allowed 1180 m). The phone last reported 16 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788794914158",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:58:34"
+  },
+  {
+    "id": 109,
+    "patient_id": 1,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888618,77.571374\nAccuracy: 111 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788794900090",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:58:21"
+  },
+  {
+    "id": 108,
+    "patient_id": 1,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788794689667",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:54:50"
+  },
+  {
+    "id": 107,
+    "patient_id": 1,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788794656432",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:54:16"
+  },
+  {
+    "id": 106,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23612 m (allowed 1180 m). The phone last reported 11 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788794613778",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:53:34"
+  },
+  {
+    "id": 105,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23612 m (allowed 1180 m). The phone last reported 6 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788794311960",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:48:32"
+  },
+  {
+    "id": 104,
+    "patient_id": 1,
+    "type": "alert",
+    "message": "No movement from the motion sensor for 15 minutes.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters",
+    "severity": "warning",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:48:27"
+  },
+  {
+    "id": 103,
+    "patient_id": 1,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788794184096",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:46:24"
+  },
+  {
+    "id": 102,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23612 m (allowed 1180 m).\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788794009274",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:43:30"
+  },
+  {
+    "id": 101,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888883,77.571215\nAccuracy: 126 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788793980086",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:43:00"
+  },
+  {
+    "id": 100,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23611 m (allowed 1180 m).\nCurrent location: https://www.google.com/maps?q=12.888905,77.571242\nAccuracy: 132 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788793707248",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:38:27"
+  },
+  {
+    "id": 99,
+    "patient_id": 1,
+    "type": "alert",
+    "message": "No vitals are arriving from the sensor. Check the band and its power.\nCurrent location: https://www.google.com/maps?q=12.888807,77.571202\nAccuracy: 151 meters",
+    "severity": "warning",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:33:25"
+  },
+  {
+    "id": 98,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23620 m (allowed 1180 m). The phone last reported 9 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888807,77.571202\nAccuracy: 151 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788793403335",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:33:25"
+  },
+  {
+    "id": 97,
+    "patient_id": 1,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888807,77.571202\nAccuracy: 151 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788793154713",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:29:15"
+  },
+  {
+    "id": 96,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23620 m (allowed 1180 m). The phone last reported 5 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888807,77.571202\nAccuracy: 151 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788793132394",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:28:52"
+  },
+  {
+    "id": 95,
+    "patient_id": 1,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788793118132",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:28:38"
+  },
+  {
+    "id": 94,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788792996067",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:26:36"
+  },
+  {
+    "id": 93,
+    "patient_id": 1,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788792970862",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:26:11"
+  },
+  {
+    "id": 92,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan left the safe zone \"Home\" and is 23620 m away (allowed 1180 m).\nCurrent location: https://www.google.com/maps?q=12.888807,77.571202\nAccuracy: 151 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788792823687",
+    "severity": "critical",
+    "source": "geofence",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:23:44"
+  },
+  {
+    "id": 91,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23624 m (allowed 1180 m). The phone last reported 26 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788792508688",
+    "severity": "critical",
+    "source": "caregiver",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:18:29"
+  },
+  {
+    "id": 90,
+    "patient_id": 10,
+    "type": "alert",
+    "message": "No vitals are arriving from the sensor. Check the band and its power.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters",
+    "severity": "warning",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:17:53"
+  },
+  {
+    "id": 89,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23624 m (allowed 1180 m). The phone last reported 24 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788792408190",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:16:49"
+  },
+  {
+    "id": 88,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23624 m (allowed 1180 m). The phone last reported 20 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788792161678",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:12:42"
+  },
+  {
+    "id": 87,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791945031",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:09:05"
+  },
+  {
+    "id": 86,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791943359",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:09:04"
+  },
+  {
+    "id": 85,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791884421",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:08:04"
+  },
+  {
+    "id": 84,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791882202",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:08:02"
+  },
+  {
+    "id": 83,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23624 m (allowed 1180 m). The phone last reported 14 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791817160",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:06:57"
+  },
+  {
+    "id": 82,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791770285",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:06:10"
+  },
+  {
+    "id": 81,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791769152",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:06:09"
+  },
+  {
+    "id": 80,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791677685",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:04:38"
+  },
+  {
+    "id": 79,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791672965",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:04:35"
+  },
+  {
+    "id": 78,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791614408",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:03:34"
+  },
+  {
+    "id": 77,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791612831",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:03:33"
+  },
+  {
+    "id": 76,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791552607",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:02:33"
+  },
+  {
+    "id": 75,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791551238",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:02:31"
+  },
+  {
+    "id": 74,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23624 m (allowed 1180 m). The phone last reported 9 minutes ago, so this may be out of date.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791515425",
+    "severity": "critical",
+    "source": "watchdog",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:01:55"
+  },
+  {
+    "id": 73,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791491084",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:01:31"
+  },
+  {
+    "id": 72,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791489509",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T20:01:29"
+  },
+  {
+    "id": 71,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791320155",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:58:40"
+  },
+  {
+    "id": 70,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791318916",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:58:39"
+  },
+  {
+    "id": 69,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791293938",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:58:14"
+  },
+  {
+    "id": 68,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791257241",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:57:37"
+  },
+  {
+    "id": 67,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791255987",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:57:36"
+  },
+  {
+    "id": 66,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan is outside the safe zone \"Home\" at 23624 m (allowed 1180 m).\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: x\nEmergency number: x\nEmergency event: EMG_TEST",
+    "severity": "critical",
+    "source": "test",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:56:54"
+  },
+  {
+    "id": 65,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791195254",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:56:35"
+  },
+  {
+    "id": 64,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791194053",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:56:34"
+  },
+  {
+    "id": 63,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791134850",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:55:35"
+  },
+  {
+    "id": 62,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791133711",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:55:33"
+  },
+  {
+    "id": 61,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791098662",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:54:59"
+  },
+  {
+    "id": 60,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791074122",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:54:34"
+  },
+  {
+    "id": 59,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791072951",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:54:33"
+  },
+  {
+    "id": 58,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791012130",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:53:32"
+  },
+  {
+    "id": 57,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788791010952",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:53:31"
+  },
+  {
+    "id": 56,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790969877",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:52:50"
+  },
+  {
+    "id": 55,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790951675",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:52:32"
+  },
+  {
+    "id": 54,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790950546",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:52:30"
+  },
+  {
+    "id": 53,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790950529",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:52:30"
+  },
+  {
+    "id": 52,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790889711",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:51:30"
+  },
+  {
+    "id": 51,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888795,77.571273\nAccuracy: 7 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790888564",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:51:28"
+  },
+  {
+    "id": 50,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888859,77.571270\nAccuracy: 6 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790829125",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:50:29"
+  },
+  {
+    "id": 49,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888866,77.571261\nAccuracy: 6 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790827821",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:50:28"
+  },
+  {
+    "id": 48,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888832,77.571231\nAccuracy: 12 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790667567",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:47:47"
+  },
+  {
+    "id": 47,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888832,77.571231\nAccuracy: 12 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790666430",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:47:46"
+  },
+  {
+    "id": 46,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888832,77.571231\nAccuracy: 12 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790656379",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:47:37"
+  },
+  {
+    "id": 45,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888851,77.571211\nAccuracy: 27 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790606223",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:46:46"
+  },
+  {
+    "id": 44,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888851,77.571211\nAccuracy: 27 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790604952",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:46:45"
+  },
+  {
+    "id": 43,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888578,77.571413\nAccuracy: 118 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790544775",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:45:45"
+  },
+  {
+    "id": 42,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888578,77.571413\nAccuracy: 118 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790543397",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:45:43"
+  },
+  {
+    "id": 41,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888797,77.571218\nAccuracy: 132 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790444753",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:44:05"
+  },
+  {
+    "id": 40,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790209804",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:40:10"
+  },
+  {
+    "id": 39,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790204912",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:40:05"
+  },
+  {
+    "id": 38,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790146060",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:39:06"
+  },
+  {
+    "id": 37,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790144896",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:39:05"
+  },
+  {
+    "id": 36,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790031324",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:37:11"
+  },
+  {
+    "id": 35,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788790030009",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:37:10"
+  },
+  {
+    "id": 34,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788789955333",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:35:55"
+  },
+  {
+    "id": 33,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788789953989",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:35:54"
+  },
+  {
+    "id": 32,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788789895297",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:34:55"
+  },
+  {
+    "id": 31,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788789893948",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:34:54"
+  },
+  {
+    "id": 30,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788789833346",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:33:53"
+  },
+  {
+    "id": 29,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788789832121",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:33:52"
+  },
+  {
+    "id": 28,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788789821808",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:33:42"
+  },
+  {
+    "id": 27,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788789772000",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:32:52"
+  },
+  {
+    "id": 26,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788789770469",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:32:50"
+  },
+  {
+    "id": 25,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787951150",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:02:31"
+  },
+  {
+    "id": 24,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787903438",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:01:43"
+  },
+  {
+    "id": 23,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787879493",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:01:20"
+  },
+  {
+    "id": 22,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787879317",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:01:19"
+  },
+  {
+    "id": 21,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787878033",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:01:18"
+  },
+  {
+    "id": 20,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "darshan pressed the help button on the tracking phone.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787834043",
+    "severity": "critical",
+    "source": "phone",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:00:34"
+  },
+  {
+    "id": 19,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787817906",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:00:18"
+  },
+  {
+    "id": 18,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787816689",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T19:00:17"
+  },
+  {
+    "id": 17,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787756072",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T18:59:16"
+  },
+  {
+    "id": 16,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787754716",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T18:59:15"
+  },
+  {
+    "id": 15,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Help gesture detected from patient.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787754065",
+    "severity": "critical",
+    "source": "system",
+    "acknowledged": false,
+    "created_at": "2026-09-07T18:59:14"
+  },
+  {
+    "id": 14,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787695849",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T18:58:16"
+  },
+  {
+    "id": 13,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888794,77.571201\nAccuracy: 149 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787694683",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T18:58:15"
+  },
+  {
+    "id": 12,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787634697",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T18:57:15"
+  },
+  {
+    "id": 11,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788787633312",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T18:57:13"
+  },
+  {
+    "id": 10,
+    "patient_id": 1,
+    "type": "missed",
+    "message": "Missed medicine: dolo650 (1) scheduled at 09:00.",
+    "severity": "warning",
+    "source": "schedule",
+    "acknowledged": false,
+    "created_at": "2026-09-07T18:44:40"
+  },
+  {
+    "id": 9,
+    "patient_id": 1,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788786879444",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T18:44:39"
+  },
+  {
+    "id": 8,
+    "patient_id": 1,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788786877930",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-07T18:44:38"
+  },
+  {
+    "id": 7,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888739,77.571226\nAccuracy: 124 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788530500164",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-04T19:31:40"
+  },
+  {
+    "id": 6,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Obstacle detected. Bot stopped.\nCurrent location: https://www.google.com/maps?q=12.888739,77.571226\nAccuracy: 124 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788530475405",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-04T19:31:15"
+  },
+  {
+    "id": 5,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Obstacle detected. Bot stopped.\nCurrent location: https://www.google.com/maps?q=12.888739,77.571226\nAccuracy: 124 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788530462573",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-04T19:31:02"
+  },
+  {
+    "id": 4,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888739,77.571226\nAccuracy: 124 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788530442373",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-04T19:30:44"
+  },
+  {
+    "id": 3,
+    "patient_id": 10,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888739,77.571226\nAccuracy: 124 meters\nPatient: darshan\nEmergency number: 9731175349\nEmergency event: EMG_1788530437423",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-04T19:30:37"
+  },
+  {
+    "id": 2,
+    "patient_id": 1,
+    "type": "emergency",
+    "message": "Low SpO2 detected: 0%.\nCurrent location: https://www.google.com/maps?q=12.888817,77.571204\nAccuracy: 117 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788530376678",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-04T19:29:37"
+  },
+  {
+    "id": 1,
+    "patient_id": 1,
+    "type": "emergency",
+    "message": "Low heart rate detected: 0 BPM.\nCurrent location: https://www.google.com/maps?q=12.888817,77.571204\nAccuracy: 117 meters\nPatient: darshan\nEmergency number: +919959632629\nEmergency event: EMG_1788530375312",
+    "severity": "critical",
+    "source": "automatic",
+    "acknowledged": false,
+    "created_at": "2026-09-04T19:29:35"
+  }
+]

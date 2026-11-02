@@ -1,0 +1,45 @@
+[
+  {
+    "id": 3,
+    "patient_id": 1,
+    "name": "gautham",
+    "relationship": "friend",
+    "photo_paths": [
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\gautham_3_1788527131140_1.jpg",
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\gautham_3_1788527132871_2.jpg",
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\gautham_3_1788527132926_3.jpg",
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\gautham_3_1788527132969_4.jpg",
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\gautham_3_1788527133024_5.jpg"
+    ],
+    "created_at": "2026-09-04T18:35:33",
+    "updated_at": "2026-09-04T18:35:33"
+  },
+  {
+    "id": 2,
+    "name": "k",
+    "relationship": "gm",
+    "photo_paths": [
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\k_2_1781346428118_1.jpg",
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\k_2_1781346428164_2.jpg",
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\k_2_1781346428187_3.jpg",
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\k_2_1781346428219_4.jpg",
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\k_2_1781346428240_5.jpg"
+    ],
+    "created_at": "2026-06-13T15:57:08",
+    "updated_at": "2026-06-13T15:57:08"
+  },
+  {
+    "id": 1,
+    "name": "M",
+    "relationship": "L",
+    "photo_paths": [
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\M_1_1781345221592_1.jpg",
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\M_1_1781345221806_2.jpg",
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\M_1_1781345222014_3.jpg",
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\M_1_1781345222384_4.jpg",
+      "C:\\Users\\keert\\OneDrive\\Desktop\\KS5505\\backend\\data\\relatives\\M_1_1781345222623_5.jpg"
+    ],
+    "created_at": "2026-06-13T15:37:04",
+    "updated_at": "2026-06-13T15:37:04"
+  }
+]

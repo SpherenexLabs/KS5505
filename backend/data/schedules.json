@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "patient_id": 1,
+    "created_by": 1,
+    "type": "medicine",
+    "title": "dolo650",
+    "dose": "1",
+    "time": "09:00",
+    "enabled": 1,
+    "status": "missed",
+    "status_date": "2026-09-07",
+    "last_alert_date": "2026-09-07"
+  }
+]
